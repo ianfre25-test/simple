@@ -5,3 +5,5 @@ This is the second line!
 And the third!
 
 Rebase test commnent 
+
+Actual rebase comment
