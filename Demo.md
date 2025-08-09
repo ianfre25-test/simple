@@ -6,3 +6,5 @@ This is the second line!
 And the third. something at end
 
 Rebase test commnent 
+
+Actual rebase comment
